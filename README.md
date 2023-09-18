@@ -1,16 +1,10 @@
-# tugas2
+Nama  : Rizka Hasna Nabila
 
-Tugas 2 Praktikum Pemrograman Mobile
+Shift : Selasa (A)
 
-## Getting Started
+NIM   : H1D021010
+ 
+Tugas 1 praktikum Mobile
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/rizkaa-hn/H1D021010_tugas2/assets/102272398/9dfd5609-9801-4f06-8bad-310e86c7034c)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
